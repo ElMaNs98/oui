@@ -49,7 +49,7 @@ while game_over==False:
             if ur_choice=='s':
                 print("\nComputer chose",comp_choice)
                 print("You win!!\n")
-                print("Your score is:",socre)
+                print("Your score is:",score)
                 rounds +=1
                 score += 1
             else:
