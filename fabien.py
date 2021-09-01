@@ -1,7 +1,7 @@
 import random
 
 print("Welcome to Roki Game!!")
-print()
+print("Hello world")
 
 choices = ['rock','paper','scissors']
 
